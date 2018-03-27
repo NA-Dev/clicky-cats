@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "name": "cat1",
+    "image": "https://imgur.com/upaJ7iR.jpg"
+  },
+  {
+    "id": 2,
+    "name": "cat2",
+    "image": "https://i.imgur.com/suDEwu1.jpg"
+  },
+  {
+    "id": 3,
+    "name": "cat3",
+    "image": "https://i.imgur.com/5pUdC1g.jpg"
+  },
+  {
+    "id": 4,
+    "name": "cat4",
+    "image": "https://imgur.com/EBjV17G.jpg"
+  },
+  {
+    "id": 5,
+    "name": "cat5",
+    "image": "https://i.imgur.com/9i0sDde.jpg"
+  },
+  {
+    "id": 6,
+    "name": "cat6",
+    "image": "https://i.imgur.com/ArFWUre.jpg"
+  },
+  {
+    "id": 7,
+    "name": "cat7",
+    "image": "https://i.imgur.com/vbFRv3j.jpg"
+  },
+  {
+    "id": 8,
+    "name": "cat8",
+    "image": "https://i.imgur.com/SuByKk3.jpg"
+  },
+  {
+    "id": 9,
+    "name": "cat9",
+    "image": "https://imgur.com/5yWiKoe.jpg"
+  },
+  {
+    "id": 10,
+    "name": "cat10",
+    "image": "https://imgur.com/21yNIfw.jpg"
+  },
+  {
+    "id": 11,
+    "name": "cat11",
+    "image": "https://i.imgur.com/ra7rjSt.jpg"
+  },
+  {
+    "id": 12,
+    "name": "cat12",
+    "image": "https://i.imgur.com/kANem8U.jpg"
+  }
+]
