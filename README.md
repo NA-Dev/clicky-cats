@@ -1,6 +1,6 @@
-##clicky-cats
+## clicky-cats
 
-#A Memory Game created with create-react-app 
+# A Memory Game created with create-react-app 
 
 Renders dynamic cat images with props from json data
 
